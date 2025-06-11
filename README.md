@@ -2,7 +2,7 @@
 
 🎉 **Bem-vindo ao Desafio: Movimentação de Peças de Xadrez!!!** ♟️
 
-> Esse programa mostra como diferentes **estruturas de repetição** (`for`, `while`, `do/while`) podem ser usadas para simular movimentos distintos como as peças de um tabuleiro de xadrez.
+> Esse programa mostra como diferentes **estruturas de repetição** (`for`, `while`, `do/while`) podem ser usadas para simular movimentos distintos através das peças de um tabuleiro de xadrez.
 
 Nesse jogo, você vai acompanhar **três peças lendárias do xadrez** — **a Torre, o Bispo e a Rainha** — realizando movimentos clássicos pelo tabuleiro!
 
@@ -38,5 +38,5 @@ Nesse jogo, você vai acompanhar **três peças lendárias do xadrez** — **a T
 
 ---
 
-**Fim do Jogo!
+Fim do Jogo!
 
